@@ -20,7 +20,7 @@
 }
 
 .App button:hover {
-  background-color: lightgreen;
+  background-color: rgb(47, 66, 151);
   color: black;
 }
 
